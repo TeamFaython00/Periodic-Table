@@ -6,7 +6,7 @@ using namespace std;
 int main()
 {
 
-		Group();
+		Group();     //redirefcting to file
 		cin.ignore();
 	    Element();
 }
